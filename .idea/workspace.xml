@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6824fe2-e62e-4377-884a-058c1737169f" name="Default Changelist" comment="" />
+    <list default="true" id="d6824fe2-e62e-4377-884a-058c1737169f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/src/test/java/com/wang/test/RepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/target/classes/com/wang/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/target/classes/com/wang/dao/UsersDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/target/classes/com/wang/pojo/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/target/test-classes/com/wang/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/target/test-classes/com/wang/test/RepositoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/dao/UsersDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/dao/UsersDao.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/01-spring-data-hibernate/target/" />
@@ -62,14 +73,30 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/dao/UsersDao.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="80" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/test/java/com/wang/test/RepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/pojo/Users.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="64">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -125,6 +152,8 @@
         <option value="$PROJECT_DIR$/03-spring-data-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-data-jpa/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/04-spring-data-jpa-repository/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/dao/UsersDao.java" />
+        <option value="$PROJECT_DIR$/04-spring-data-jpa-repository/src/test/java/com/wang/test/RepositoryTest.java" />
       </list>
     </option>
   </component>
@@ -168,83 +197,6 @@
             <path>
               <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="springdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wang" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
@@ -306,8 +258,34 @@
               <item name="springdata" type="462c0819:PsiDirectoryNode" />
               <item name="04-spring-data-jpa-repository" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata" type="462c0819:PsiDirectoryNode" />
+              <item name="04-spring-data-jpa-repository" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata" type="462c0819:PsiDirectoryNode" />
+              <item name="04-spring-data-jpa-repository" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata" type="462c0819:PsiDirectoryNode" />
+              <item name="04-spring-data-jpa-repository" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wang" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,7 +330,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UsersDaoImplTest.testInsertUsers">
+  <component name="RunManager" selected="JUnit.RepositoryTest.test3">
+    <configuration name="RepositoryTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_04springdatajparepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wang.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wang.test.RepositoryTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoryTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_04springdatajparepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wang.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wang.test.RepositoryTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoryTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_04springdatajparepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wang.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wang.test.RepositoryTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UsersDaoImplTest.selectUsersByNameUserCriteria" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="_02springdatahibernatejpa" />
       <extension name="coverage">
@@ -364,38 +390,6 @@
       <option name="PACKAGE_NAME" value="com.wang.test" />
       <option name="MAIN_CLASS_NAME" value="com.wang.test.UsersDaoImplTest" />
       <option name="METHOD_NAME" value="selectUsersByNameUserCriteria" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsersDaoImplTest.selectUsresByNameUseSql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="_02springdatahibernatejpa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wang.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wang.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wang.test.UsersDaoImplTest" />
-      <option name="METHOD_NAME" value="selectUsresByNameUseSql" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsersDaoImplTest.testDeleteUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="_02springdatahibernatejpa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wang.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wang.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wang.test.UsersDaoImplTest" />
-      <option name="METHOD_NAME" value="testDeleteUsers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -417,29 +411,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsersDaoImplTest.testSelectUsersByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="_02springdatahibernatejpa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wang.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wang.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wang.test.UsersDaoImplTest" />
-      <option name="METHOD_NAME" value="testSelectUsersByName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RepositoryTest.test3" />
+        <item itemvalue="JUnit.RepositoryTest.test2" />
+        <item itemvalue="JUnit.RepositoryTest.test1" />
         <item itemvalue="JUnit.UsersDaoImplTest.testInsertUsers" />
         <item itemvalue="JUnit.UsersDaoImplTest.selectUsersByNameUserCriteria" />
-        <item itemvalue="JUnit.UsersDaoImplTest.selectUsresByNameUseSql" />
-        <item itemvalue="JUnit.UsersDaoImplTest.testSelectUsersByName" />
-        <item itemvalue="JUnit.UsersDaoImplTest.testDeleteUsers" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +432,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590741149244</updated>
       <workItem from="1590741151953" duration="11906000" />
-      <workItem from="1590795009368" duration="7495000" />
+      <workItem from="1590795009368" duration="9361000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1590799911721</created>
@@ -470,19 +448,24 @@
       <option name="project" value="LOCAL" />
       <updated>1590805339479</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test2">
+      <created>1590805527629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590805527629</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test2">
+      <created>1590805627140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590805627140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UsersDaoImplTest_testInsertUsers - 2020.05.30 at 07h 58m 26s.xml">
-      <configuration name="UsersDaoImplTest.testInsertUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UsersDaoImplTest_testInsertUsers - 2020.05.30 at 08h 01m 22s.xml">
-      <configuration name="UsersDaoImplTest.testInsertUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UsersDaoImplTest_testInsertUsers - 2020.05.30 at 08h 06m 14s.xml">
-      <configuration name="UsersDaoImplTest.testInsertUsers" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UsersDaoImplTest_testInsertUsers - 2020.05.30 at 08h 06m 51s.xml">
       <configuration name="UsersDaoImplTest.testInsertUsers" configurationId="JUnit" />
     </history-entry>
@@ -504,15 +487,23 @@
     <history-entry file="UsersDaoImplTest_testInsertUsers - 2020.05.30 at 08h 20m 14s.xml">
       <configuration name="UsersDaoImplTest.testInsertUsers" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RepositoryTest_test1 - 2020.05.30 at 10h 35m 04s.xml">
+      <configuration name="RepositoryTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepositoryTest_test2 - 2020.05.30 at 10h 38m 04s.xml">
+      <configuration name="RepositoryTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepositoryTest_test3 - 2020.05.30 at 10h 44m 39s.xml">
+      <configuration name="RepositoryTest.test3" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19401000" />
+    <option name="totallyTimeSpent" value="21267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1396" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -522,7 +513,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -534,7 +525,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -551,6 +542,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
@@ -793,13 +794,27 @@
     <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/dao/UsersDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/pojo/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="64">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/main/java/com/wang/dao/UsersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="80" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-spring-data-jpa-repository/src/test/java/com/wang/test/RepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
