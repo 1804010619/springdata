@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="_03springdatajpa" />
+        <module name="_05springdatajpacrudrepository" />
         <module name="_04springdatajparepository" />
         <module name="_01springdatahibernate" />
+        <module name="_07springdatajpajparepository" />
         <module name="_02springdatahibernatejpa" />
+        <module name="_06springdatajpapagingandsortingrepository" />
+        <module name="_03springdatajpa" />
       </profile>
     </annotationProcessing>
   </component>
