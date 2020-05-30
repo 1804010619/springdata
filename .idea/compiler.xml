@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_03springdatajpa" />
+        <module name="_04springdatajparepository" />
         <module name="_01springdatahibernate" />
         <module name="_02springdatahibernatejpa" />
       </profile>

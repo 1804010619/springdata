@@ -11,6 +11,7 @@
     <module>01-spring-data-hibernate</module>
     <module>02-spring-data-hibernate-jpa</module>
       <module>03-spring-data-jpa</module>
+      <module>04-spring-data-jpa-repository</module>
   </modules>
   <packaging>pom</packaging>
 
