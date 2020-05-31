@@ -15,6 +15,12 @@
       <module>05-spring-data-jpa-crudrepository</module>
       <module>06-spring-data-jpa-pagingandsortingrepository</module>
     <module>07-spring-data-jpa-jparepository</module>
+      <module>08-spring-data-jpa-jpaspecificationexecutor</module>
+      <module>09-spring-data-jpa-myrepository</module>
+      <module>10-spring-data-jpa-association-onetoone</module>
+      <module>11-spring-data-jpa-onetomany</module>
+      <module>12-spring-data-jpa-manytomany</module>
+      <module>13-spring-data-redis</module>
   </modules>
   <packaging>pom</packaging>
 

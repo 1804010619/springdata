@@ -7,11 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_05springdatajpacrudrepository" />
-        <module name="_04springdatajparepository" />
-        <module name="_01springdatahibernate" />
         <module name="_07springdatajpajparepository" />
-        <module name="_02springdatahibernatejpa" />
+        <module name="_08springdatajpajpaspecificationexecutor" />
+        <module name="_01springdatahibernate" />
         <module name="_06springdatajpapagingandsortingrepository" />
+        <module name="_10springdatajpaassociationonetoone" />
+        <module name="_09springdatajpamyrepository" />
+        <module name="_13springdataredis" />
+        <module name="_11springdatajpaonetomany" />
+        <module name="_04springdatajparepository" />
+        <module name="_02springdatahibernatejpa" />
+        <module name="_12springdatajpamanytomany" />
         <module name="_03springdatajpa" />
       </profile>
     </annotationProcessing>

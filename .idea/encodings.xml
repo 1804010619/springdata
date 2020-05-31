@@ -9,5 +9,11 @@
     <file url="file://$PROJECT_DIR$/05-spring-data-jpa-crudrepository" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-spring-data-jpa-pagingandsortingrepository" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-spring-data-jpa-jparepository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-data-jpa-myrepository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-data-jpa-association-onetoone" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-spring-data-jpa-onetomany" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-spring-data-jpa-manytomany" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-spring-data-redis" charset="UTF-8" />
   </component>
 </project>
