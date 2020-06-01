@@ -2,61 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6824fe2-e62e-4377-884a-058c1737169f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-spring-data-jpa-jparepository/src/test/java/com/wang/test/JpaRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/_08springdatajpajpaspecificationexecutor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/main/java/com/wang/dao/UsersDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/main/java/com/wang/pojo/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/test/java/com/wang/test/JpaSpecifficationExecutorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/_09springdatajpamyrepository.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/src/main/java/com/wang/dao/UsersDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/src/main/java/com/wang/dao/UsersDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/src/main/java/com/wang/dao/UsersRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/src/main/java/com/wang/pojo/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-spring-data-jpa-myrepository/src/test/java/com/wang/test/MyRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/_10springdatajpaassociationonetoone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/src/main/java/com/wang/dao/UsersDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/src/main/java/com/wang/pojo/Roles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/src/main/java/com/wang/pojo/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-spring-data-jpa-association-onetoone/src/test/java/com/wang/test/OneToOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/_11springdatajpaonetomany.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/src/main/java/com/wang/dao/UsersDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/src/main/java/com/wang/pojo/Roles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/src/main/java/com/wang/pojo/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-spring-data-jpa-onetomany/src/test/java/com/wang/test/OneToManyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/_12springdatajpamanytomany.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/src/main/java/com/wang/dao/RolesDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/src/main/java/com/wang/pojo/Menus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/src/main/java/com/wang/pojo/Roles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-spring-data-jpa-manytomany/src/test/java/com/wang/test/ManyToManyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-spring-data-redis/_13springdataredis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-spring-data-redis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-spring-data-redis/src/main/java/com/wang/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-spring-data-redis/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-spring-data-redis/src/main/resources/redis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-spring-data-redis/src/test/java/com/wang/test/RedisTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-data-jpa-pagingandsortingrepository/src/test/java/com/wang/test/PagingAndSortingRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/06-spring-data-jpa-pagingandsortingrepository/src/test/java/com/wang/test/PagingAndSortingRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-spring-data-jpa-pagingandsortingrepository/target/test-classes/com/wang/test/PagingAndSortingRepositoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/06-spring-data-jpa-pagingandsortingrepository/target/test-classes/com/wang/test/PagingAndSortingRepositoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-spring-data-jpa-jparepository/src/main/java/com/wang/dao/UsersDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/07-spring-data-jpa-jparepository/src/main/java/com/wang/dao/UsersDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springdata.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13-spring-data-redis/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="1488">
               <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
             </state>
           </provider>
@@ -96,28 +45,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
+            <state relative-caret-position="640">
               <caret line="40" column="90" selection-start-line="40" selection-start-column="90" selection-end-line="40" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/test/java/com/wang/test/RedisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1168">
+              <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
               <folding>
-                <element signature="e#1083#1107#0" expanded="true" />
-                <element signature="e#1159#1182#0" expanded="true" />
-                <element signature="e#1234#1257#0" expanded="true" />
-                <element signature="e#1461#1484#0" expanded="true" />
-                <element signature="e#1533#1553#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/test/java/com/wang/test/RedisTest.java">
+        <entry file="file://$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/test/java/com/wang/test/JpaSpecifficationExecutorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="83" column="53" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
+            <state relative-caret-position="16">
+              <caret line="69" column="72" selection-start-line="69" selection-start-column="72" selection-end-line="69" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,22 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/main/java/com/wang/pojo/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="128">
               <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -158,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12-spring-data-jpa-manytomany/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="1040">
               <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
             </state>
           </provider>
@@ -279,132 +217,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="12-spring-data-jpa-manytomany" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="12-spring-data-jpa-manytomany" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="12-spring-data-jpa-manytomany" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="12-spring-data-jpa-manytomany" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wang" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springdata" type="462c0819:PsiDirectoryNode" />
-              <item name="13-spring-data-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wang" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,7 +227,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/13-spring-data-redis/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -548,7 +363,8 @@
       <workItem from="1590741151953" duration="11906000" />
       <workItem from="1590795009368" duration="26464000" />
       <workItem from="1590887841247" duration="5593000" />
-      <workItem from="1590902312140" duration="5123000" />
+      <workItem from="1590902312140" duration="5388000" />
+      <workItem from="1590995105700" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1590799911721</created>
@@ -592,16 +408,17 @@
       <option name="project" value="LOCAL" />
       <updated>1590836001691</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finall">
+      <created>1590907684262</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590907684263</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RedisTest_test1 - 2020.05.31 at 13h 59m 14s.xml">
-      <configuration name="RedisTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RedisTest_test1 - 2020.05.31 at 14h 00m 54s.xml">
-      <configuration name="RedisTest.test1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RedisTest_test1 - 2020.05.31 at 14h 03m 03s.xml">
       <configuration name="RedisTest.test1" configurationId="JUnit" />
     </history-entry>
@@ -626,15 +443,20 @@
     <history-entry file="RedisTest_test5 - 2020.05.31 at 14h 42m 42s.xml">
       <configuration name="RedisTest.test5" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RedisTest_test6 - 2020.05.31 at 14h 44m 53s.xml">
+      <configuration name="RedisTest.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test6 - 2020.05.31 at 14h 45m 24s.xml">
+      <configuration name="RedisTest.test6" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49086000" />
+    <option name="totallyTimeSpent" value="49366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1396" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26070902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26440176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -644,7 +466,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -687,7 +509,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test2" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="finall" />
+    <option name="LAST_COMMIT_MESSAGE" value="finall" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/../../MyApplication/maven/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar!/javax/persistence/criteria/CriteriaBuilder.class">
@@ -749,16 +572,6 @@
           <folding>
             <element signature="e#4943#4944#0" expanded="true" />
             <element signature="e#4979#4980#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/test/java/com/wang/test/JpaSpecifficationExecutorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="159" column="10" selection-start-line="159" selection-start-column="10" selection-end-line="159" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1031,10 +844,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-spring-data-jpa-manytomany/pom.xml">
+    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        <state relative-caret-position="1488">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="90" selection-start-line="40" selection-start-column="90" selection-end-line="40" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/test/java/com/wang/test/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/main/java/com/wang/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1045,56 +882,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/main/resources/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/12-spring-data-jpa-manytomany/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="40" column="90" selection-start-line="40" selection-start-column="90" selection-end-line="40" selection-end-column="90" />
-          <folding>
-            <element signature="e#1083#1107#0" expanded="true" />
-            <element signature="e#1159#1182#0" expanded="true" />
-            <element signature="e#1234#1257#0" expanded="true" />
-            <element signature="e#1461#1484#0" expanded="true" />
-            <element signature="e#1533#1553#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1040">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/main/java/com/wang/pojo/User.java">
+    <entry file="file://$PROJECT_DIR$/08-spring-data-jpa-jpaspecificationexecutor/src/test/java/com/wang/test/JpaSpecifficationExecutorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13-spring-data-redis/src/test/java/com/wang/test/RedisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="83" column="53" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
+        <state relative-caret-position="16">
+          <caret line="69" column="72" selection-start-line="69" selection-start-column="72" selection-end-line="69" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
           </folding>
         </state>
       </provider>
